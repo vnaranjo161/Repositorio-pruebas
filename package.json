@@ -1,15 +1,8 @@
 {
-    "name": "testing",
-    "version": "1.0.0",
-    "description": "",
-    "main": "funciones.js",
-    "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "keywords": [],
-    "author": "",
-    "license": "ISC",
-    "dependencies": {
-      "jest": "^29.7.0"
-    }
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
   }
+}
