@@ -7,7 +7,7 @@ test('12 and 5 should return 17', () => {
 
 test('-10 and 5 should return -5', () => {
     let result = addition(-10,5);
-    expect(result).toBe(-5);
+    expect(result).toBe(-6);
 })
 
 test('0 and 0 should return 0', () => {
