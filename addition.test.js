@@ -2,7 +2,7 @@ const addition = require('./funciones/addition')
 
 test('12 and 5 should return 17', () => {
     let result = addition(12,5);
-    expect(result).toBe(17);
+    expect(result).toBe(18);
 })
 
 test('-10 and 5 should return -5', () => {
